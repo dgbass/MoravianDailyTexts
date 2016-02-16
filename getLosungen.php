@@ -9,9 +9,9 @@ date_default_timezone_set('Europe/Berlin');
 ########## DO NOT COMMIT THIS FILE WITH YOUR CREDENTIALS ###########
 ///////////////////////CONFIGURATION///////////////////////
 //////////////////////////////////////////////////////////
-$username = "49173324117";                      // Telephone number including the country code without '+' or '00'.
-$password = "iyO1Uim/WBaIRueMj8oAOb2Mh9k=";     // Use registerTool.php or exampleRegister.php to obtain your password
-$nickname = "Daniel Glunz";
+$username = "xxxx";                      // Telephone number including the country code without '+' or '00'.
+$password = "yyyy";     // Use registerTool.php or exampleRegister.php to obtain your password
+$nickname = "nickname";
 $debug = false;                                           // Set this to true, to see debug mode.
 ///////////////////////////////////////////////////////////
 
